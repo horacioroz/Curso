@@ -1,0 +1,27 @@
+Curso Pablo.txt
+
+Preguntas
+1.- 20160108 Cuando entro en el command prompt + Rails, aparentemente me loguea en la cuenta de git.
+    Esto sucede cuando entro y quedo en el dir "Sites", ahora, cuando cambio el directorio y paso a "sites/films" ese logueo no cuenta? es decir que si subo algo a git desde la consola no va a subir en el lugar correcto? o no va a subir ?
+    Digamos, si es así es como que trabajan en compartimientos estancos y tendría que levantar el git en cada directorio.
+
+    02.-20160115 git add .=> todo // git commit // git push
+
+03.-20160115 No termino de entender o que es HEROKU
+
+04.-20160115 Decididamente el sitio se ve distinto según el navegador que utilicemos. Esto a todas luces no es correcto. Como hago para que lo que genero sea homogéneo en los distintos navegadores ? 
+
+05.-20160116 En realidad lo del bootstrap no está muy claro, por ejemplo en la lección 17 que te  hace
+              hacer una serie de modificaciones de las columnas para que se vea de un modo en una pantalla sm y de otro en una xs que es un celu, la verdad es que cuando hago las modificaciones me altera el diseño de mi pantalla y no se ve igual.
+              Por otro lado se ve distinto en firefox que en cualquier otro navegador lo que no tiene mucho sentido, por ejemplo la letra scipt no se ve igual.
+
+06.-20160125 Ver que son los comandos chmod, chown, 
+    pwd = Path to Working Directory, 
+    ln, touch, están dentro de fileutils
+     
+07.-20160128 En sublime text. Quiero una breve reseña de como organizar un proyecto. Cuantos workspaces 
+             tiene. 
+             Puedo tener más de un proyecto en un workspace?
+08.-20160108 
+09.-20160108 
+10.-20160108 
